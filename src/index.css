@@ -1,0 +1,47 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  @apply transition-colors duration-200;
+}
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', sans-serif;
+}
+
+body {
+  @apply bg-gradient-to-br from-indigo-50 to-purple-50 min-h-screen;
+}
+
+body.dark {
+  @apply bg-gray-950;
+}
+
+input::placeholder {
+  @apply text-gray-400;
+}
+
+::-webkit-scrollbar {
+  width: 6px;
+}
+
+::-webkit-scrollbar-track {
+  @apply bg-transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  @apply bg-indigo-200 rounded-full;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  @apply bg-indigo-300;
+}
+
+.dark::-webkit-scrollbar-thumb {
+  @apply bg-indigo-900 rounded-full;
+}
+
+.dark::-webkit-scrollbar-thumb:hover {
+  @apply bg-indigo-800;
+}

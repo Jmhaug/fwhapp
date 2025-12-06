@@ -1,0 +1,7 @@
+﻿Kundenr.;Kunde;Dato;Fakturanr.;Tekst;Deres referanse;Bestillingsnr.;Kontraktsnr.;Beskrivelse;Prosjektkode;Prosjekt;Avdelingskode;Avdeling;Org.nr.;KID;Betalt fra;Dok.dato;Forfallsdato;Bilagsnr;Eksternt saksnr.;Valutakode;Valutabeløp;Beløp;Akkumulert beløp;Saldo;Utbetales;Factoring fakturastatus;Factoringbeskrivelse;Inkasso
+;"";"";"";"Nes Advantage AS, 984909020 (10002)";"";"";"";"";"";"";"";"";"";"";"";"";"";;"";"";0,00;0,00;0,00;0,00;"";"";"";""
+10002;"Nes Advantage AS";"03.10.2025";"";"Bank";"";"";"";"Overført etter timeliste fra 01.08";"";"";"";"";"984909020";"";"";"03.10.2025";"03.10.2025";1552;"";"NOK";-144375,00;-144375,00;-144375,00;-144375,00;"Nei";"";"";""
+10002;"Nes Advantage AS";"17.10.2025";"";"Bank";"";"";"";"";"";"";"";"";"984909020";"";"";"17.10.2025";"17.10.2025";1596;"";"NOK";-410375,00;-410375,00;-554750,00;-410375,00;"Nei";"";"";""
+10002;"Nes Advantage AS";"14.11.2025";"";"Bank";"";"";"";"";"";"";"";"";"984909020";"";"";"14.11.2025";"14.11.2025";1608;"";"NOK";-321125,00;-321125,00;-875875,00;-321125,00;"Nei";"";"";""
+10002;"Nes Advantage AS";"06.12.2025";"";"Sum";"";"";"";"";"";"";"";"";"";"";"";"";"";;"";"NOK";-875875,00;-875875,00;0,00;-875875,00;"Nei";"";"";""
+0;"";"06.12.2025";"";"Sum totalt";"";"";"";"";"";"";"";"";"";"";"";"";"";;"";"";0,00;-875875,00;0,00;-875875,00;"Nei";"";"";""

@@ -1,0 +1,144 @@
+{
+  "eiendom": [
+    {
+      "id": 1,
+      "name": "Sameiet Fanatorget",
+      "amount": 6829.67,
+      "frequency": "Bi-Monthly",
+      "invoice_count": 6,
+      "total_paid": 40978.0,
+      "last_invoice": "2025-10-15"
+    },
+    {
+      "id": 2,
+      "name": "Accountor AS",
+      "amount": 3528.36,
+      "frequency": "Monthly",
+      "invoice_count": 11,
+      "total_paid": 38812.0,
+      "last_invoice": "2025-11-29"
+    },
+    {
+      "id": 3,
+      "name": "Bergen kommune",
+      "amount": 2555.64,
+      "frequency": "Bi-Monthly",
+      "invoice_count": 5,
+      "total_paid": 12778.19,
+      "last_invoice": "2025-11-01"
+    },
+    {
+      "id": 4,
+      "name": "PowerOffice AS",
+      "amount": 542.05,
+      "frequency": "Monthly",
+      "invoice_count": 11,
+      "total_paid": 5962.5,
+      "last_invoice": "2025-11-30"
+    }
+  ],
+  "invest": [
+    {
+      "id": 5,
+      "name": "Accountor AS",
+      "amount": 3442.0,
+      "frequency": "Monthly",
+      "invoice_count": 11,
+      "total_paid": 37862.0,
+      "last_invoice": "2025-11-29"
+    },
+    {
+      "id": 6,
+      "name": "PowerOffice AS",
+      "amount": 504.2,
+      "frequency": "Monthly",
+      "invoice_count": 11,
+      "total_paid": 5546.25,
+      "last_invoice": "2025-11-30"
+    }
+  ],
+  "bemanning": [
+    {
+      "id": 7,
+      "name": "Skatteetaten - Skatteinnkreving",
+      "amount": 52170.0,
+      "frequency": "Quarterly",
+      "invoice_count": 3,
+      "total_paid": 156510.0,
+      "last_invoice": "2025-09-26"
+    },
+    {
+      "id": 8,
+      "name": "Fwh Eiendom AS",
+      "amount": 15680.0,
+      "frequency": "Bi-Monthly",
+      "invoice_count": 5,
+      "total_paid": 78400.0,
+      "last_invoice": "2025-10-01"
+    },
+    {
+      "id": 9,
+      "name": "Accountor AS",
+      "amount": 6388.09,
+      "frequency": "Monthly",
+      "invoice_count": 11,
+      "total_paid": 70269.0,
+      "last_invoice": "2025-11-29"
+    },
+    {
+      "id": 10,
+      "name": "Nordea Liv AS",
+      "amount": 2857.67,
+      "frequency": "Monthly",
+      "invoice_count": 12,
+      "total_paid": 34292.0,
+      "last_invoice": "2025-12-01"
+    },
+    {
+      "id": 11,
+      "name": "If Skadeforsikring NUF",
+      "amount": 2419.6,
+      "frequency": "Bi-Monthly",
+      "invoice_count": 5,
+      "total_paid": 12098.01,
+      "last_invoice": "2025-11-16"
+    },
+    {
+      "id": 12,
+      "name": "PowerOffice AS",
+      "amount": 989.77,
+      "frequency": "Monthly",
+      "invoice_count": 11,
+      "total_paid": 10887.5,
+      "last_invoice": "2025-11-30"
+    },
+    {
+      "id": 13,
+      "name": "Talkmore AS",
+      "amount": 646.01,
+      "frequency": "Monthly",
+      "invoice_count": 12,
+      "total_paid": 7752.11,
+      "last_invoice": "2025-12-01"
+    },
+    {
+      "id": 14,
+      "name": "BKK AS",
+      "amount": 291.05,
+      "frequency": "Monthly",
+      "invoice_count": 12,
+      "total_paid": 3492.6,
+      "last_invoice": "2025-12-03"
+    },
+    {
+      "id": 15,
+      "name": "Kraftriket AS",
+      "amount": 130.42,
+      "frequency": "Monthly",
+      "invoice_count": 11,
+      "total_paid": 1434.61,
+      "last_invoice": "2025-11-30"
+    }
+  ],
+  "analysis_date": "2025-12-06T21:50:52.002201"
+}
