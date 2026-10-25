@@ -1,0 +1,4 @@
+# Findings reviewed by hand and accepted. One fingerprint per line.
+
+# documentation placeholder (YOUR_ANON_KEY)
+d3f66a35d8fb1d08a5f6b93b654b66e6dcff99ca:EMAIL_NOTIFICATIONS_SETUP.md:curl-auth-header:171
